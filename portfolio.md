@@ -21,8 +21,7 @@ Period: 2023/04 - until now
 
 Help stop wasting food and other products. 
 
-<img src="foodsi-01.webp" height="400">
-<img src="foodsi-02.webp" height="400">
+<img src="foodsi-01.webp" height="400"><img src="foodsi-02.webp" height="400">
 <img src="foodsi-03.webp" height="400">
 
 ### Tech stack
