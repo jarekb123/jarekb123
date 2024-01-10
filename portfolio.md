@@ -1,3 +1,20 @@
+### Hi there 👋
+
+<!--
+**jarekb123/jarekb123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <!-- # Jaroslaw Butajlo Portfolio -->
 
 <!-- 
@@ -11,6 +28,8 @@
 <a href=""><img src="download_google_play.svg" height="50"></a>
 
  -->
+
+I've worked with many companies and we created beautiful products.
 
 # Foodsi
 
@@ -76,4 +95,33 @@ https://allbright.io
 
 Period: 2019/01 - 2023/03
 
-## 
+## AHP
+
+* Android: https://play.google.com/store/apps/details?id=health.allbright.kos&hl=pl
+* iOS: https://apps.apple.com/tr/app/ahp-kos-zawa%C5%82/id1618585314
+* Web: https://kos.allbright.health/
+
+
+## Kardiolog
+
+Android: https://play.google.com/store/apps/details?id=app.kardiolog
+
+## Doggies In Town
+
+Android: https://play.google.com/store/apps/details?id=dog.friendly.business.hotels.food.service.finder&hl
+
+## Trainn
+
+* Android: https://play.google.com/store/apps/details?id=com.thetrainn.trainn
+* iOS: https://apps.apple.com/pl/app/trainn-personalised-fitness/id1555213815
+
+## Fintech Connector
+
+* iOS: https://apps.apple.com/pl/app/fintech-connector/id1506602133
+
+## PIA
+
+* Android: https://play.google.com/store/apps/details?id=health.pia.app&hl=pl
+
+## ... and more (descriptions to be added)
+
